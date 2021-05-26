@@ -11,7 +11,7 @@ book[5].after(book[2]);
 //2
 const body = document.querySelector("body");
 body.style.backgroundImage = " url(/image/adv.jpg) ";
-//
+//S
 //
 //3
 const head = document.getElementsByTagName("a");
